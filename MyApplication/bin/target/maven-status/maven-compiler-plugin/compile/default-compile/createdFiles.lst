@@ -1,0 +1,6 @@
+com\vikash\controller\ApplicationController.class
+com\vikash\controller\RestController.class
+com\vikash\repository\UserRepository.class
+com\vikash\services\UserService.class
+com\vikash\modal\User.class
+com\vikash\MyApplication.class
